@@ -33,22 +33,15 @@ con su título, descripción y nombre de imagen del póster.
 2. Abre `MovieApp-iOS.xcodeproj` en Xcode.
 3. Ejecuta la aplicación en un simulador o dispositivo físico.
 
-## División de Trabajo
-<hr>
-<a href="ImanolMuguetaUnsain_CV.pdf" target="_blank">
-    <img src="img_cv.png" alt="Curriculum Vitae" width="200" />
-</a>
-<hr>
-
 ## División del Trabajo
 <a href="DivisionTrabajo_iOS.pdf" target="_blank">
-    <img src="divtrabajoimg.png" alt="Documento con la división de tareas para la realización del proyecto" width="200" />
+    <img src="divtrabajoimg.png" alt="Documento con la división de tareas para la realización del proyecto" width="150" />
 </a>
 
 ## Demostración en Video
 
 <a href="https://vimeo.com/1029713810?share=copy#t=0" target="_blank">
-    <img src="videoIMG.png" alt="Enlace al vídeo de prueba del proyecto terminado" width="200" />
+    <img src="videoIMG.png" alt="Enlace al vídeo de prueba del proyecto terminado" width="400" />
 </a>
 
 ## Créditos
