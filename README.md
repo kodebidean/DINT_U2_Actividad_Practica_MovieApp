@@ -48,7 +48,7 @@ con su título, descripción y nombre de imagen del póster.
 ## Demostración en Video
 
 <a href="https://vimeo.com/1029713810?share=copy#t=0" target="_blank">
-    <img src="" alt="Enlace al vídeo de prueba del proyecto terminado" width="200" />
+    <img src="videoImg.png" alt="Enlace al vídeo de prueba del proyecto terminado" width="200" />
 </a>
 
 ## Créditos
